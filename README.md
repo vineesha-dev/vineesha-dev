@@ -65,8 +65,10 @@ Features:
 ### Employee Management System
 **Tech:** ASP.NET Core MVC, Web API,SQL
 Features:
-- Employee Registration 
-- CRUD Operation
+- Employee CRUD Operations
+- Department Management
+- Role Management
+- Search and Filtering
 
 
 ---
