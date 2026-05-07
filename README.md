@@ -92,6 +92,5 @@ Features:
 I enjoy building backend systems and solving database-related problems.
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineesha-dev&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vineesha-dev)
 
